@@ -1,4 +1,4 @@
-Prints 32
+Prints 
 
 Click here for .bgcode:
 
