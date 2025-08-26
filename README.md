@@ -10,10 +10,10 @@ The Individual File folder contains .3mf, .bgcode, and .SLDPRT/.SLDASM/.zip file
 
 The Batch File folder contains only a ReadMe file with a hyperlink to the .bgcode file as it is too large to store on GitHub.
 
-#### .bgcode files
+### .bgcode files
 Send the .bgcode files directly to 3D Printers to get more parts. Sliced for the Prusa MK4 printer with the joint's corresponding filament (see specific part ReadMe). While the individual part files are included if needed, the MakerSpace team would prefer that the batch file is used and a collection of spare parts are kept by the TAs/Professors in order to not occupy too many printers.
 
-#### .SLDPRT, .SLDASM, .zip files
+### .SLDPRT, .SLDASM, .zip files
 .zip or .SLDASM - SolidWorks Assembly
 
 .SLDPRT - SolidWorks Part
@@ -21,5 +21,5 @@ Send the .bgcode files directly to 3D Printers to get more parts. Sliced for the
 
 Used for modifying the part. Refer to specific part ReadMe files for details on custom supports and printing settings and refer to the .3mf file for clarification.
 
-#### .3mf files
+### .3mf files
 Used for viewing and modifying supports on a specific part. Supports should be compared with these files when modifying a part. Can be sliced to obtain a .bgcode file.
