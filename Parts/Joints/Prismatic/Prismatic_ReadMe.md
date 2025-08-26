@@ -11,3 +11,6 @@
  
 ## Filament
 Prusament Galaxy Red works best but any strong filaments should work
+
+## PS
+Please be aware that if you're attempting to re-slice the batch file or a modified batch file, it will take a long time (20 mins on my laptop)
