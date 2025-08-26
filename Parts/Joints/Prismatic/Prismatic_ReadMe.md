@@ -10,4 +10,4 @@
   * 4 Box support enforcers to support top platform
  
 ## Filament
-Prusament Galaxy Red works well but any strong filaments should work
+Prusament Galaxy Red works best but any strong filaments should work
