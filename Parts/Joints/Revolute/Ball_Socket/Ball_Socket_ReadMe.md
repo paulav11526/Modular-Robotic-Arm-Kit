@@ -1,6 +1,7 @@
 ## Slicer Settings (PrusaSlicer)
 * 0.2mm SPEED
-* Brim on socket, not ball piece
+* Custom brim width (3mm)
+    * Right click > Add settings > Skirt and Brim > Brim width
 * Fuzzy Skin on both Ball and Socket pieces
 * Supports on print bed
 * Support blockers on socket threads
